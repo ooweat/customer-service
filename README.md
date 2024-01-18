@@ -1,2 +1,5 @@
-#Customer Service
-서비스를 운영하면서 발생할 수 있는 CS를 접수하기 위한 토이프로젝트
+# Customer-service
+- 서비스는 어디에 있는가?
+- API 로 구성할 것인가? Spring Boot 에 모두 구성할 것인가?
+- 보안 인증은 Session 방식을 쓸 것인가 JWT 를 쓸 것인가?
+- Mybatis ? JPA ?
